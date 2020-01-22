@@ -42,7 +42,7 @@
         <httpclient.version>4.5.3</httpclient.version>
         <httpcore.version>4.4.8</httpcore.version>
         <commons-collections4.version>4.1</commons-collections4.version>
-        <commons-compress.version>1.15</commons-compress.version>
+        <commons-compress.version>1.19</commons-compress.version>
         <commons-net.version>3.6</commons-net.version>
         <commons-vfs2.version>2.2</commons-vfs2.version>
         <kaptcha.version>2.3.2</kaptcha.version>
