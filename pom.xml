@@ -30,7 +30,7 @@
         <mybatisplus.version>2.1.4</mybatisplus.version>
         <spring.boot.mybatisplus.version>1.0.5</spring.boot.mybatisplus.version>
         <velhocity.version>2.0</velhocity.version>
-        <fasterxml.jackson.version>2.9.2</fasterxml.jackson.version>
+        <fasterxml.jackson.version>2.10.3</fasterxml.jackson.version>
         <spring.cloud.version>2.1.3.RELEASE</spring.cloud.version>
         <spring-boot-starter-redis.version>1.4.7.RELEASE</spring-boot-starter-redis.version>
         <spring-session-data-redis.version>2.0.2.RELEASE</spring-session-data-redis.version>
