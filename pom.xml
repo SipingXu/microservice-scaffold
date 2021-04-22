@@ -25,7 +25,7 @@
         <mysql-connector-java.version>5.1.23</mysql-connector-java.version>
         <druid.version>1.1.18</druid.version>
         <spring-boot.version>2.1.7.RELEASE</spring-boot.version>
-        <shiro.version>1.4.0</shiro.version>
+        <shiro.version>1.7.1</shiro.version>
         <shiro-freemarker.version>1.0.1</shiro-freemarker.version>
         <mybatisplus.version>2.1.4</mybatisplus.version>
         <spring.boot.mybatisplus.version>1.0.5</spring.boot.mybatisplus.version>
